@@ -5,13 +5,13 @@
 
     <groupId>com.czh.cloud</groupId>
     <artifactId>zuul-server</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <packaging>jar</packaging>
 
     <parent>
         <groupId>com.czh.springcloud.root</groupId>
         <artifactId>root-server</artifactId>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.0.0</version>
         <relativePath>../root-server/pom.xml</relativePath>
     </parent>
 
