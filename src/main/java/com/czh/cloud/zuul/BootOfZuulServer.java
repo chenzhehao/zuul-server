@@ -16,7 +16,7 @@ public class BootOfZuulServer {
         if (os.contains("windows")) {
             System.setProperty("log.path", "D:/chenzhehao/workspace/czh");
         } else {
-            System.setProperty("log.path", "/opt");
+            System.setProperty("log.path", "/Users/chenzhehao/Documents/logs/springcloud");
         }
         System.setProperty("context.name", "zuul-server");
 
